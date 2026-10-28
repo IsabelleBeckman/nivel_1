@@ -1,0 +1,8 @@
+--- Resumo do Dia ---
+Quantidade de compras registradas: 1
+Total bruto: R$ 400.00
+Total de descontos concedidos: R$ 92.20
+Total final: R$ 307.80
+
+--- Detalhamento das Compras ---
+Compra 1: Bruto R$ 400.00 | Desconto R$ 92.20 | Líquido R$ 307.80
